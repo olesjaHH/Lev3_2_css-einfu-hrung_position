@@ -1,0 +1,40 @@
+body {
+    background: url(../img/jeremy-thomas-E0AHdsENmDg-unsplash.jpg) center / cover no-repeat;
+    height: 100vh;
+}
+body article {
+    position: relative;
+    background: #f62b54;
+    text-align: left;
+    color: white;
+    border-radius: 20px;
+    width: 30em;
+    padding: 5em 1em;
+    left: 50%;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+body article h1 {
+    font-size: 50px;
+    text-decoration: underline;
+    margin-top: 0;
+    margin-left: 20px;
+}
+body article p {
+    font-size: 20px;
+    margin-left: 20px;
+    width: 75%;
+}
+div {
+    color: #f62b54;
+    background: white;
+    display: inline-block;
+    border-radius: 50%;
+    position: absolute;
+    padding: 5px 10px;
+    top: 20px;
+    right: 20px;
+    text-align: center;
+}
